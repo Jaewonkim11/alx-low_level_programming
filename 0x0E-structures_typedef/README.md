@@ -1,1 +1,1 @@
-My name is poppy
+I am learning to use structures and typedef in C
